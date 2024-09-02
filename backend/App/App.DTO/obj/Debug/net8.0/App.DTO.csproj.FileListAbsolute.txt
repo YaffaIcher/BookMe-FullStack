@@ -1,0 +1,44 @@
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\bin\Debug\net8.0\App.DTO.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\bin\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\App.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\App.DTO.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\refint\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\App.DTO.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.DTO\obj\Debug\net8.0\ref\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\bin\Debug\net8.0\App.DTO.deps.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\bin\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\App.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\App.DTO.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\refint\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.DTO\obj\Debug\net8.0\ref\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\bin\Debug\net8.0\App.DTO.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\bin\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\App.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\App.DTO.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\refint\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\App.DTO.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.DTO\obj\Debug\net8.0\ref\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\bin\Debug\net8.0\App.DTO.deps.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\bin\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\App.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\App.DTO.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\refint\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.DTO\obj\Debug\net8.0\ref\App.DTO.dll

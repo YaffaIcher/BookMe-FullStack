@@ -1,0 +1,49 @@
+/* Body styles */
+body {
+  text-align: center; /* Centers text within the body element */
+  margin: 10% 5%; /* Sets the margins to 10% from the top and bottom, and 5% from the left and right */
+}
+
+/* Input field styles */
+input {
+  border: none; /* Removes border from input fields */
+  outline: none; /* Removes the default outline around input fields */
+  text-align: center; /* Centers text inside input fields */
+}
+
+/* Textarea styles */
+textarea {
+  border: none; /* Removes border from textareas */
+  outline: none; /* Removes the default outline around textareas */
+  text-align: center; /* Centers text inside textareas */
+}
+
+/* Button styles */
+button {
+  border: none; /* Removes border from buttons */
+  outline: none; /* Removes the default outline around buttons */
+  text-align: right; /* Aligns text inside buttons to the right */
+}
+
+/* Footer styles */
+.footer {
+  font-size: 150%; /* Sets the font size to 150% of the normal size */
+  font-family: 'Franklin Gothic'; /* Applies the Franklin Gothic font family */
+  color: #232078; /* Sets the text color to a dark blue */
+  text-align: center; /* Centers text in the footer */
+}
+
+/* Paragraph styles */
+.p {
+  font-size: 150%; /* Sets the font size to 150% of the normal size */
+  font-family: 'Guttman Yad-Brush'; /* Applies the Guttman Yad-Brush font family */
+  color: #232078; /* Sets the text color to a dark blue */
+}
+
+/* Contact section styles */
+.contact {
+  font-size: 300%; /* Sets the font size to 300% of the normal size */
+  font-family: 'Franklin Gothic'; /* Applies the Franklin Gothic font family */
+  color: #232078; /* Sets the text color to a dark blue */
+  text-align: center; /* Centers text in the contact section */
+}

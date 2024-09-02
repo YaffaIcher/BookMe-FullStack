@@ -1,0 +1,55 @@
+/* Image styles */
+img {
+    height: 20%; /* Sets the height of images to 20% of the containing element */
+    width: 40%; /* Sets the width of images to 40% of the containing element */
+}
+
+/* About section styles */
+.about {
+    text-shadow: 4px 4px 10px #6e92b8; /* Adds a shadow to the text with a blue hue, offset by 4px horizontally and vertically, and a blur of 10px */
+    font-size: 200%; /* Sets the font size to 200% of the normal size */
+    color: #232078; /* Sets the text color to a dark blue */
+}
+
+/* Cart section styles */
+.cart {
+    text-shadow: 4px 4px 10px #6e92b8; /* Adds a shadow to the text with a blue hue, offset by 4px horizontally and vertically, and a blur of 10px */
+    font-family: 'Times New Roman', Times, serif; /* Applies the Times New Roman font family or a similar serif font */
+    font-size: 400%; /* Sets the font size to 400% of the normal size */
+    color: #f40606; /* Sets the text color to a bright red */
+}
+
+/* Navigation bar styles */
+nav {
+    display: flex; /* Uses Flexbox to arrange items within the nav element */
+    justify-content: space-around; /* Distributes items evenly with space around them */
+    align-content: center; /* Centers items vertically within the nav element */
+    background-color: #f40606; /* Sets the background color of the nav to a bright red */
+    position: fixed; /* Fixes the position of the nav element so it stays in place while scrolling */
+    z-index: 10; /* Ensures the nav element appears above other elements */
+    width: 100%; /* Sets the width of the nav to 100% of the viewport width */
+    top: 2%; /* Positions the nav 2% from the top of the viewport */
+    left: 1%; /* Positions the nav 1% from the left edge of the viewport */
+    right: 1%; /* Positions the nav 1% from the right edge of the viewport */
+    direction: rtl; /* Sets the text direction to right-to-left */
+}
+
+/* Navigation image styles */
+nav img {
+    height: 40px; /* Sets the height of images in the nav to 40px */
+    width: 100px; /* Sets the width of images in the nav to 100px */
+}
+
+/* Navigation link styles */
+nav a {
+    font-size: larger; /* Increases the font size of navigation links */
+    text-decoration: none; /* Removes the default underline from navigation links */
+    color: #232078; /* Sets the color of navigation links to a dark blue */
+    font: bold 20px; /* Sets the font size to 20px and makes it bold */
+}
+
+/* Navigation link hover styles */
+nav a:hover {
+    background-color: #ffffff; /* Changes the background color of navigation links to white on hover */
+    text-decoration: underline; /* Underlines navigation links on hover */
+}

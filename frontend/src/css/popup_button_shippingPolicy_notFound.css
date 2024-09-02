@@ -1,0 +1,49 @@
+/* Styles for images in the shipping policy not found section */
+.imgShippingPolicyNotFound {
+  height: 400px; /* Sets the height of the image to 400px */
+  width: 700px;  /* Sets the width of the image to 700px */
+}
+
+/* Styles for paragraphs in the shipping policy section */
+.pShippingPolicy {
+  text-align: right; /* Aligns text to the right */
+  text-shadow: 4px 4px 10px #6e92b8; /* Adds a shadow to the text with a blue hue, offset by 4px horizontally and vertically, and a blur of 10px */
+  font-size: 170%; /* Sets the font size to 170% of the normal size */
+  color: #232078; /* Sets the text color to a dark blue */
+}
+
+/* Styles for the success popup */
+.success-popup {
+  text-shadow: 4px 4px 10px #6e92b8; /* Adds a shadow to the text with a blue hue, offset by 4px horizontally and vertically, and a blur of 10px */
+  font-size: 80%; /* Sets the font size to 80% of the normal size */
+  color: #232078; /* Sets the text color to a dark blue */
+}
+
+/* Styles for buttons */
+.button {
+  padding: 1% 20%; /* Sets padding inside the button to 1% vertically and 20% horizontally */
+  color: black; /* Sets the text color to black */
+  text-align: center; /* Centers text inside the button */
+  font-family: 'Franklin Gothic'; /* Applies the Franklin Gothic font family */
+  border: thick double #f40606; /* Adds a thick double border with a bright red color */
+}
+
+/* Hover effects for buttons */
+.button:hover {
+  opacity: 0.9; /* Reduces the opacity to 0.9 on hover */
+  color: #232078; /* Changes the text color to a dark blue on hover */
+  padding: 1.5% 25%; /* Increases padding on hover to 1.5% vertically and 25% horizontally */
+}
+
+/* Animation keyframes for moving element */
+@keyframes moveBackAndForth {
+  0% { transform: translateX(0); } /* Starts with the element in its original position */
+  70% { transform: translateX(calc(100vw - 100%)); } /* Moves the element horizontally across the viewport */
+  100% { transform: translateX(0); } /* Returns the element to its original position */
+}
+
+/* Styles for the moving title */
+#movingTitle {
+  animation: moveBackAndForth 4s linear infinite; /* Applies the moveBackAndForth animation with a duration of 4 seconds, linearly, infinitely repeating */
+  font-size: 400%; /* Sets the font size to 400% of the normal size */
+}

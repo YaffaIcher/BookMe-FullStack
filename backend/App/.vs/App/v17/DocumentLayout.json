@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\me\\desktop\\bookme-fullstack\\backend\\app\\app.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\me\\desktop\\bookme-fullstack\\backend\\app\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\me\\desktop\\bookme-fullstack\\backend\\app\\app.api\\app.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\app.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\me\\desktop\\bookme-fullstack\\backend\\app\\app.dataaccess\\datacontext\\bookmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\datacontext\\bookmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.API.http",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.API\\App.API.http",
+              "RelativeDocumentMoniker": "App.API\\App.API.http",
+              "ToolTip": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.API\\App.API.http",
+              "RelativeToolTip": "App.API\\App.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-01T13:19:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.API\\appsettings.json",
+              "RelativeDocumentMoniker": "App.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.API\\appsettings.json",
+              "RelativeToolTip": "App.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T13:19:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:15:55.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookMeContext.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.DataAccess\\DataContext\\BookMeContext.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\DataContext\\BookMeContext.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\BookMe-FullStack\\backend\\App\\App.DataAccess\\DataContext\\BookMeContext.cs",
+              "RelativeToolTip": "App.DataAccess\\DataContext\\BookMeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:13:52.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\refint\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\ref\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\obj\Debug\net8.0\App.Busi.9E7B907C.Up2Date
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.deps.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.Busi.9E7B907C.Up2Date
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\refint\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.BusinessLogic\obj\Debug\net8.0\ref\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.Busi.9E7B907C.Up2Date
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\refint\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.BusinessLogic\obj\Debug\net8.0\ref\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.deps.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.AssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.Busi.9E7B907C.Up2Date
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\refint\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.BusinessLogic\obj\Debug\net8.0\ref\App.BusinessLogic.dll

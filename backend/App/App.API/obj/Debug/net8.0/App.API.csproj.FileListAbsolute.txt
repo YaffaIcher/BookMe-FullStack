@@ -1,0 +1,308 @@
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\appsettings.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.API.exe
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.API.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.API.runtimeconfig.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.API.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\scopedcss\bundle\App.API.styles.css
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.csproj.Up2Date
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\refint\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\App.API.genruntimeconfig.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\obj\Debug\net8.0\ref\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\newww\App\App.API\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\appsettings.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.API.exe
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.API.deps.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.API.runtimeconfig.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.API.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\scopedcss\bundle\App.API.styles.css
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.csproj.Up2Date
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\refint\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\App.API.genruntimeconfig.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App.API\obj\Debug\net8.0\ref\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\appsettings.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.API.exe
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.API.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.API.runtimeconfig.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.API.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.DTO.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\scopedcss\bundle\App.API.styles.css
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.csproj.Up2Date
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\refint\App.API.dll
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\App.API.genruntimeconfig.cache
+C:\Users\97254\OneDrive\שולחן העבודה\פרויקט סיום שנת 2024-full stack\פרויקט סיום\App\App\App.API\obj\Debug\net8.0\ref\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\appsettings.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.API.exe
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.API.deps.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.API.runtimeconfig.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.API.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.BusinessLogic.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.DataAccess.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.DTO.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.BusinessLogic.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\bin\Debug\net8.0\App.DataAccess.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.AssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\scopedcss\bundle\App.API.styles.css
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.csproj.Up2Date
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\refint\App.API.dll
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.pdb
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\App.API.genruntimeconfig.cache
+C:\Users\me\Desktop\פרויקט סיכום Full Stack סיום שנה ב\App\App\App.API\obj\Debug\net8.0\ref\App.API.dll
